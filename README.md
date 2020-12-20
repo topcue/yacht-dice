@@ -10,7 +10,19 @@
 - 가벼운 마음으로 진행한 토이 프로젝트입니다.
 - convention은 PEP 8을 따르지만, 불가피하게 80글자를 넘는 줄이 있습니다.
 - python3를 사용해주세요.
-- ssh이나 nc 등을 사용하는 경우 버벅임이 있을 수 있습니다.
+- ssh 등을 사용하는 경우 버벅임이 있을 수 있습니다.
+
+-----------------------------------------------------------------------------------------
+
+I was impressed by the project that implemented Tetris using the command line interface.
+
+- The biggest goal is to implement GUI games with CLI.
+- Make sure that the terminal font is fixed width.
+- I tried to reduce the installation of additional packages as much as possible.
+- This is a light toy project.
+- The convention follows PEP 8, but inevitably there are lines over 80 characters.
+- Please use python3.
+- If you use ssh, etc., there may be breaks.
 
 ---
 
