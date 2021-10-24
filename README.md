@@ -17,7 +17,7 @@ The yacht-dice game implemented through the CLI.
 - If you use ssh, etc., there may be breaks.
 
 ## Getting Started
-### Depencies
+### Dependencies
 None
 
 ## Demo
