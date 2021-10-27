@@ -3,10 +3,8 @@
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
   - [Demo](#Demo)
-## About this project
-The yacht-dice game implemented through the CLI.
-
 ## Overview
+- The yacht-dice game implemented through the CLI.
 - I was impressed by the project that implemented Tetris using the command line interface.
 - The main goal is to implement **GUI games** with **CLI**.
 - Make sure that the terminal font is fixed width.
